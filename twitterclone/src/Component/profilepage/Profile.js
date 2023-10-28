@@ -2,7 +2,7 @@ import React from 'react'
 import './Profile.styles.css'
 import Navbar from '../../Tools/Navbar/Navbar'
 import Footer from '../../Tools/Footer/Footer'
-import { Link, useNavigate} from 'react-router-dom'
+import { useNavigate } from 'react-router-dom'
 
 const Profile = () => {
     const navigate = useNavigate();

@@ -17,7 +17,6 @@ export const Home = () => {
   return (
     <div className='container'>
         <Navbar/>
-        HomePage
         <div className='creation'>
             <h2>Do you want to post something? Just write it!</h2>
             <input text="Write your post" className='create-input' value={searchField} onChange={handleChange}></input>
