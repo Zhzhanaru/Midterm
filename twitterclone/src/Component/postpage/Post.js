@@ -6,7 +6,7 @@ const Post = () => {
   return (
     <div>
         <Navbar/>
-        Post
+            <p2>Here you can see your POSTS:</p2>
         <Footer/>
     </div>
   )

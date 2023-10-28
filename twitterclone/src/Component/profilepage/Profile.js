@@ -17,7 +17,8 @@ const Profile = () => {
             <h1>Profile</h1>
             <label className='label'>Name: Zhanaru</label><br/>
             <label className='label'>Surname: Manap</label><br/>
-            <label className='label'>Age: 20</label><br/><br/>
+            <label className='label'>BirthDay: 05.12.2002</label><br/><br/>
+            <label className='label'>email: zh_manap@kbtu.kz</label><br/><br/>
             <button className='profile-button' onClick={redirectTo}>See My Posts</button><br/><br/>
             
         </div>

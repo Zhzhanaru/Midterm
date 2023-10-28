@@ -37,13 +37,13 @@
 
 .form-submit{
     display: inline-block;
-    color:var(--whitesmoke-color);
+    color:black;
     text-decoration: none;
-    background-color: var(--primary-color-bright);
+    background-color: whitesmoke;
     padding:0.7rem 2rem;
     transition: 0.3s ease-in;
 }
 .form-submit:hover{
-    background-color: var(--whitesmoke-color);
-    color:#333;
+    background-color: wheat;
+    color:#333333;
 }
