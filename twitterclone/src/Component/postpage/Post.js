@@ -1,8 +1,14 @@
 import React from 'react'
+import Navbar from '../../Tools/Navbar/Navbar'
+import Footer from '../../Tools/Footer/Footer'
 
 const Post = () => {
   return (
-    <div>Post</div>
+    <div>
+        <Navbar/>
+        Post
+        <Footer/>
+    </div>
   )
 }
 

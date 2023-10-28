@@ -1,0 +1,23 @@
+.create-input{
+    width:20%;
+    padding: 5rem 1rem;
+}
+/* .creation-button{
+    padding: 0.5rem 1.2rem;
+    border: none;
+    background-color: #2c8f8f;
+    color: whitesmoke;
+    border-radius: 3px;
+    cursor: pointer; 
+    transition: 0.2s ease-in;
+} */
+
+.creation{
+    padding: 0.5rem 1.2rem;
+    border: none;
+    background-color: #2c8f8f;
+    color: whitesmoke;
+    border-radius: 3px;
+    cursor: pointer; 
+    transition: 0.2s ease-in;
+}
