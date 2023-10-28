@@ -1,6 +1,7 @@
 import React from 'react'
 import Navbar from '../../Tools/Navbar/Navbar'
 import Footer from '../../Tools/Footer/Footer'
+import './Post.styles.css'
 
 const Post = () => {
   return (
